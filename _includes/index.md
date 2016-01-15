@@ -2,8 +2,8 @@
 
 ## Hand Back Compact ##
 
-![](.\images\system_in_paper.jpg)
-![](.\images\device_in_paper.jpg)
+![](.\images\system-in-paper.jpg)
+![](.\images\device-in-paper.jpg)
 
 ## Hand Back Mini ##
 
