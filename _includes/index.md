@@ -1,15 +1,24 @@
+## Hand Back System ##
+
+![](/images/system-in-paper.jpg)
+
 ## Hand Back Prototype ##
+
+The first prototype is build with black acrylic.
+
+The device enclose the whole hand inside the chamber. Above the chamber, there is a LED-camera module. The height of the module is step adjustable.
+
+This device is used to evaluate the scheme of hand back system. Meanwhile, the imaging parameters like illumination, the shutter speed, distances, and the structure are measured and optimized.
 
 ## Hand Back Compact ##
 
-![](/images/system-in-paper.jpg)
+The compact hand back device is built based on the lessons learned from the prototype. The imaging structure is same to the prototype. But the volume is reduced. The LED and camera are fixed to the acrylic framework. Many fixing holes are carved in the acrylic framework, which is also an installation guide. This structure is concise and compact without any unnecessary part.
+
 ![](/images/device-in-paper.jpg)
 
 ## Hand Back Mini ##
 
-## Dataset ##
-
-### Experimental Results  ###
+After the compact device, we have planned a mini hand back device for possible future application. With a lens of a wide angle of view and a mini camera module, the hand back device could be further reduced.
 
 ## Publications ##
 
