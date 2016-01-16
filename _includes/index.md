@@ -6,7 +6,7 @@
 
 The first prototype is build with black acrylic.
 
-The device enclose the whole hand inside the chamber. Above the chamber, there is a LED-camera module. The height of the module is step adjustable.
+The device encloses the whole hand inside the chamber, which is a protective environment for image capturing, and fixes the hand with two pegs, one between the index finger and the middle finger and the other between the ring finger and the little finger. Above the chamber, there is a LED-camera module. The height of the module is step adjustable.
 
 This device is used to evaluate the scheme of hand back system. Meanwhile, the imaging parameters like illumination, the shutter speed, distances, and the structure are measured and optimized.
 
