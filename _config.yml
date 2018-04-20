@@ -2,7 +2,7 @@ markdown: redcarpet
 pygments: true
 
 url: http://www.handback.ml
-baseurl:
+baseurl: /handback
 
 title_tag_text: Hand Back Project
 h1_tag_text: Hand Back Project
