@@ -1,6 +1,4 @@
-pygments: true
-
-url: http://www.handback.ml
+url: http://www.quxiaofeng.me/handback
 baseurl: /handback
 
 title_tag_text: Hand Back Project
